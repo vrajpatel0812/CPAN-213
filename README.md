@@ -1,8 +1,8 @@
 # My First React Native App (CPAN 213)
 
-**Student:** [Your Name]  
-**ID:** [Your ID]  
-**Course:** CPAN 213 - Fall 2025
+**Student:** [Vraj]  
+**ID:** [n01696088]  
+**Course:** [computer programming & analy]
 
 ## How to run (iOS)
 1. Install dependencies: `npm install`
